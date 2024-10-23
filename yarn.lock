@@ -688,7 +688,7 @@
     "@types/babel__core" "^7.20.5"
     react-refresh "^0.14.2"
 
-"@xyflow/react@^12.3.0":
+"@xyflow/react@^12.3.2":
   version "12.3.2"
   resolved "https://registry.yarnpkg.com/@xyflow/react/-/react-12.3.2.tgz#10a98ad8d110867b5f44985b08b4b233816a980a"
   integrity sha512-+bK3L61BDIvUX++jMiEqIjy5hIIyVmfeiUavpeOZIYKwg6NW0pR5EnHJM2JFfkVqZisFauzS9EgmI+tvTqx9Qw==
